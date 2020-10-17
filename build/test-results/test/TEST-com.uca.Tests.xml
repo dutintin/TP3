@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uca.Tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-10-17T18:58:44" hostname="PC-DE-VALENTIN" time="0.031">
+  <properties/>
+  <testcase name="ComparaisonRomain_Romain()" classname="com.uca.Tests" time="0.024"/>
+  <testcase name="testConverter()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="Comparaison()" classname="com.uca.Tests" time="0.0"/>
+  <testcase name="ComparaisonEntier_Entier()" classname="com.uca.Tests" time="0.0"/>
+  <testcase name="ComparaisonEntier_Romain()" classname="com.uca.Tests" time="0.001"/>
+  <testcase name="ComparaisonRomain_Entier()" classname="com.uca.Tests" time="0.001"/>
+  <system-out><![CDATA[3
+La valeur 4 est superieure a la valeur III
+4
+La valeur 4 est egale a la valeur IV
+6
+La valeur 4 est inferieure a la valeur VI
+ Il n'existe pas de chiffre zero en version romaine
+La valeur -4 est inferieure a zero et n'existe pas en version romaine
+Il n'existe pas de nombre 4000 en version romaine
+Le chiffre romain que vous avez inscrit n'existe pas
+Le chiffre romain que vous avez inscrit n'existe pas
+Le chiffre romain que vous avez inscrit n'existe pas
+La valeur 4 est superieure a la valeur 3
+La valeur 4 est egale a la valeur 4
+La valeur 4 est inferieure a la valeur 5
+3
+La valeur 4 est superieure a la valeur III
+4
+La valeur 4 est egale a la valeur IV
+6
+La valeur 4 est inferieure a la valeur VI
+La valeur 4 est superieure a la valeur 3
+La valeur 4 est egale a la valeur 4
+La valeur 4 est inferieure a la valeur 6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
